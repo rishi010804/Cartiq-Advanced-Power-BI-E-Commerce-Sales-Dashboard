@@ -4,9 +4,7 @@
 
 ## 🎬 Demo Preview
 
-```
 ![Demo](./Project_Screenshots/Project_Screenshots.gif)
-```
 
 ---
 
