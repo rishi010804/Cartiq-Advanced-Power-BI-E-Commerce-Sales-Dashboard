@@ -1,0 +1,2 @@
+# Cartiq-Advanced-Power-BI-E-Commerce-Sales-Dashboard
+Cartiq is an Advanced Power BI E-commerce Dashboard using DAX, MoM% Analysis, Dynamic KPIs, and Star Schema Modeling to Analyze Sales, Profit, Customers, and Market Performance. It Features Interactive Visuals, Field Parameters, Visual Toggling, Advanced Filtering, Slicers, Conditional Formatting, and Drill-Down to Deliver Actionable Data Insights.
