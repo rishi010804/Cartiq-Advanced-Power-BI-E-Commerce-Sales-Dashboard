@@ -4,11 +4,8 @@
 
 ## 🎬 Demo Preview
 
-> 🚀 *Add your dashboard screenshots or a short GIF here*
-
 ```
-Example:
-![Dashboard Preview](./Project's Screenshots/dashboard/overview.png)
+![Demo](./Project's Screenshots/Project Screenshots.gif)
 ```
 
 ---
@@ -144,21 +141,29 @@ It converts raw data into **interactive visuals** for quick business understandi
 
 ```
 /Project's Screenshots
-  ├── home
-  │     ├── home_1.png
-  │     ├── home_2.png
+  ├── 1. Home Page
+  │     ├── 1 Cartiq Home Page.png
   │
-  ├── dashboard
-  │     ├── dashboard_1.png
-  │     ├── dashboard_2.png
+  ├── 2. Dashboard Page
+  │     ├── 2.1 Dashboard Page.png
+  │     ├── 2.2 Dashboard Page.png
+  │     ├── 2.3 Dashboard Page.png
+  │     ├── 2.4 Dashboard Page.png
+  │     ├── 2.5 Dashboard Page.png
+  │     ├── 2.6 Dashboard Page.png
+  │     ├── 2.7 Dashboard Page.png
+  │     
+  ├── 3. Product Page
+  │     ├── 3.1 Product Page.png
+  │     ├── 3.2 Product Page.png
+  │     ├── 3.3 Product Page.png
   │
-  ├── product
-  │     ├── product_1.png
-  │     ├── product_2.png
-  │
-  ├── customer
-        ├── customer_1.png
-        ├── customer_2.png
+  ├── 4. Customer Page
+        ├── 4.1 Customer Page.png
+        ├── 4.2 Customer Page.png
+        ├── 4.3 Customer Page.png
+        ├── 4.4 Customer Page.png
+        ├── Advanced Filter Panel.png
 ```
 
 ---
