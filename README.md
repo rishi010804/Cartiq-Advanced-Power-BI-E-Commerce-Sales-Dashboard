@@ -139,29 +139,29 @@ It converts raw data into **interactive visuals** for quick business understandi
 
 ```
 /Project's Screenshots
-  ├── 1. Home Page
-  │     ├── 1 Cartiq Home Page.png
+  ├── 1-Home_Page
+  │     ├── 1_Cartiq_Home_Page.png
   │
-  ├── 2. Dashboard Page
-  │     ├── 2.1 Dashboard Page.png
-  │     ├── 2.2 Dashboard Page.png
-  │     ├── 2.3 Dashboard Page.png
-  │     ├── 2.4 Dashboard Page.png
-  │     ├── 2.5 Dashboard Page.png
-  │     ├── 2.6 Dashboard Page.png
-  │     ├── 2.7 Dashboard Page.png
+  ├── 2-Dashboard_Page
+  │     ├── 2.1_Dashboard_Page.png
+  │     ├── 2.2_Dashboard_Page.png
+  │     ├── 2.3_Dashboard_Page.png
+  │     ├── 2.4_Dashboard_Page.png
+  │     ├── 2.5_Dashboard_Page.png
+  │     ├── 2.6_Dashboard_Page.png
+  │     ├── 2.7_Dashboard_Page.png
   │     
-  ├── 3. Product Page
-  │     ├── 3.1 Product Page.png
-  │     ├── 3.2 Product Page.png
-  │     ├── 3.3 Product Page.png
+  ├── 3-Product_Page
+  │     ├── 3.1_Product_Page.png
+  │     ├── 3.2_Product_Page.png
+  │     ├── 3.3_Product_Page.png
   │
-  ├── 4. Customer Page
-        ├── 4.1 Customer Page.png
-        ├── 4.2 Customer Page.png
-        ├── 4.3 Customer Page.png
-        ├── 4.4 Customer Page.png
-        ├── Advanced Filter Panel.png
+  ├── 4-Customer_Page
+        ├── 4.1_Customer_Page.png
+        ├── 4.2_Customer_Page.png
+        ├── 4.3_Customer_Page.png
+        ├── 4.4_Customer_Page.png
+        ├── Advanced_Filter_Panel.png
 ```
 
 ---
