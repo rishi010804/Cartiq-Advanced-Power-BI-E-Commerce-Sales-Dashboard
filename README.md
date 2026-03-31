@@ -5,7 +5,7 @@
 ## 🎬 Demo Preview
 
 ```
-![Demo](https://github.com/rishi010804/Cartiq-Advanced-Power-BI-E-Commerce-Sales-Dashboard/blob/main/Project's%20Screenshots/Project%20Screenshots.gif)
+![Demo](https://github.com/rishi010804/Cartiq-Advanced-Power-BI-E-Commerce-Sales-Dashboard/blob/c3f6e5df901ff6d4546d247c9db9c8ab567756c9/Project's%20Screenshots/Project%20Screenshots.gif)
 ```
 
 ---
