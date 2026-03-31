@@ -35,6 +35,17 @@ It converts raw data into **interactive visuals** for quick business understandi
 * **Excel** → Data cleaning
 * **Data Modeling** → Star schema
 
+## 📂 About the Dataset
+
+* Synthetic **e-commerce sales dataset** used for Power BI analysis
+* Structured using **Star Schema (Fact + Dimension tables)**
+* Includes data for **orders, customers, products, dates, and marketing campaigns**
+* Covers **sales, profit, quantity, customer segments, regions, and channels**
+* Date range: **2021–2025**
+* Suitable for **sales analysis, trend analysis, customer segmentation, and marketing insights**
+
+⭐ *Provides a realistic dataset for building interactive dashboards and performing business analytics using Power BI.*
+
 ### ⚙️ Steps
 
 * Cleaned & prepared data
