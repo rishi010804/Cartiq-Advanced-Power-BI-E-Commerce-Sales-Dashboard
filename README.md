@@ -5,7 +5,7 @@
 ## 🎬 Demo Preview
 
 ```
-![Demo](./Project's Screenshots/Project Screenshots.gif)
+![Demo](./Project%27s%20Screenshots/Project%20Screenshots.gif)
 ```
 
 ---
